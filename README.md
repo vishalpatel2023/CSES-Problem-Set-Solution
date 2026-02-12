@@ -5,7 +5,7 @@ My personal implementations of CSES problems. (Only code)
 | :--- | :---: | :--- |
 | Introductory Problems | $\frac{0}{24}$ | ⏳ In Progress |
 | Sorting and Searching | $\frac{6}{35}$ | ⏳ In Progress |
-| Dynamic Programming | $\frac{0}{23}$ | ⏳ In Progress |
+| Dynamic Programming | $\frac{18}{23}$ | ⏳ In Progress |
 | Graph Algorithms | $\frac{17}{36}$ | ⏳ In Progress |
 | Range Queries | $\frac{10}{25}$ | ⏳ In Progress |
 | Tree Algorithms | $\frac{6}{16}$ | ⏳ In Progress |
@@ -24,3 +24,5 @@ My personal implementations of CSES problems. (Only code)
 
 ---
 **Total Problems: 400**
+
+**Total Solved: 62**
